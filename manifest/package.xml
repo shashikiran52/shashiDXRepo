@@ -2,7 +2,17 @@
     <version>59.0</version>
     <types>
         <members>A</members>
+        <members>A0</members>
         <members>A00000</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>TestBot1</members>
+        <name>Bot</name>
+    </types>
+    <types>
+        <members>TestBot1.v1</members>
+        <members>TestBot1.v2</members>
+        <name>BotVersion</name>
     </types>
 </Package>
