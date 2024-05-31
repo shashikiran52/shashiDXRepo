@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <botMlDomain>
+        <label>MyBot1 Copy</label>
+        <mlIntents>
+            <developerName>TestItem1</developerName>
+            <label>TestItem1</label>
+        </mlIntents>
+        <mlSlotClasses>
+            <dataType>Text</dataType>
+            <developerName>enty2</developerName>
+            <extractionRegex>[A-Z]</extractionRegex>
+            <extractionType>Pattern</extractionType>
+            <label>enty2</label>
+        </mlSlotClasses>
+        <mlSlotClasses>
+            <dataType>Text</dataType>
+            <developerName>testenity</developerName>
+            <extractionRegex>[a-z]</extractionRegex>
+            <extractionType>Pattern</extractionType>
+            <label>testenity</label>
+        </mlSlotClasses>
+        <name>MyBot1_Copy</name>
+    </botMlDomain>
+    <description>Test A bot from scratch.</description>
+    <label>MyBot1 Copy</label>
+    <logPrivateConversationData>false</logPrivateConversationData>
+    <richContentEnabled>false</richContentEnabled>
+    <sessionTimeout>480</sessionTimeout>
+</Bot>

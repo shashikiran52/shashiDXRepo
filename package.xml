@@ -5,14 +5,18 @@
         <members>A0</members>
         <members>A000</members>
         <members>A00000</members>
+        <members>A00000ABdkKerh</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>MyBot1_Copy</members>
         <members>SreeramBot</members>
         <members>TestBot1</members>
         <name>Bot</name>
     </types>
     <types>
+        <members>MyBot1_Copy.v1</members>
+        <members>MyBot1_Copy.v2</members>
         <members>SreeramBot.v1</members>
         <members>SreeramBot.v124001</members>
         <members>SreeramBot.v2</members>
