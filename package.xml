@@ -24,4 +24,8 @@
         <members>TestBot1.v2</members>
         <name>BotVersion</name>
     </types>
+    <types>
+        <members>set1</members>
+        <name>PermissionSet</name>
+    </types>
 </Package>
