@@ -26,6 +26,7 @@
     </types>
     <types>
         <members>KM1</members>
+        <members>Loans</members>
         <members>set1</members>
         <name>PermissionSet</name>
     </types>
