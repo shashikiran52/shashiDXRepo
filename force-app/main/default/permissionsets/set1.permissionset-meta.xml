@@ -16,6 +16,14 @@
         <enabled>true</enabled>
         <name>dummy2__mdt</name>
     </customMetadataTypeAccesses>
+      <customMetadataTypeAccesses>
+        <enabled>true</enabled>
+        <name>dummy2__mdt</name>
+    </customMetadataTypeAccesses>
+      <customMetadataTypeAccesses>
+        <enabled>true</enabled>
+        <name>dummy2__mdt</name>
+    </customMetadataTypeAccesses>
     <customMetadataTypeAccesses>
         <enabled>true</enabled>
         <name>dummy3__mdt</name>
