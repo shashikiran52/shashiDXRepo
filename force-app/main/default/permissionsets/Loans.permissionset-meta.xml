@@ -4,5 +4,7 @@
     <hasActivationRequired>false</hasActivationRequired>
     <hasActivationRequired>false</hasActivationRequired>
     <hasActivationRequired>false</hasActivationRequired>
+    <hasActivationRequired>false</hasActivationRequired>
+    <hasActivationRequired>false</hasActivationRequired>
     <label>Loans</label>
 </PermissionSet>
