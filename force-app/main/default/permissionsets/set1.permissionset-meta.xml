@@ -20,14 +20,6 @@
         <enabled>true</enabled>
         <name>dummy3__mdt</name>
     </customMetadataTypeAccesses>
-    <customMetadataTypeAccesses>
-        <enabled>true</enabled>
-        <name>dummy3__mdt</name>
-    </customMetadataTypeAccesses>
-    <customMetadataTypeAccesses>
-        <enabled>true</enabled>
-        <name>dummy3__mdt</name>
-    </customMetadataTypeAccesses>
     <description>set for demo custom permissionset</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>set1</label>
