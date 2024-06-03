@@ -25,6 +25,7 @@
         <name>BotVersion</name>
     </types>
     <types>
+        <members>KM1</members>
         <members>set1</members>
         <name>PermissionSet</name>
     </types>
