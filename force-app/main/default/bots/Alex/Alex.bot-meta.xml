@@ -2,6 +2,10 @@
 <Bot xmlns="http://soap.sforce.com/2006/04/metadata">
     <botMlDomain>
         <label>Alex</label>
+        <mlIntents>
+            <developerName>Create_a_case</developerName>
+            <label>Create a case</label>
+        </mlIntents>
         <name>Alex</name>
     </botMlDomain>
     <contextVariables>
