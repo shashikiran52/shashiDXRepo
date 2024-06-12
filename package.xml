@@ -8,6 +8,7 @@
     </types>
     <types>
         <members>Alexa.v1</members>
+        <members>Alexa.v2</members>
         <members>SiriAlex.v1</members>
         <members>SiriAlex_two.v1</members>
         <name>BotVersion</name>
